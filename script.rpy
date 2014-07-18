@@ -8899,7 +8899,7 @@ label sorryfordeceiving:
 
     show chigara uniform handstogether sad with dissolve
 
-    chi "Yes. Um... I don't think I've ever apologized to you for lying to you all this time about Asaga."
+    chi "Yes. Um... I don't think I've ever apologized for withholding informaiton about Asaga."
 
     show chigara uniform handstogether sadclosedeyes with dissolve
 
