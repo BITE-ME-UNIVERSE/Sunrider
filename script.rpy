@@ -6591,7 +6591,7 @@ label missionfromryuvians:
     ryu "There is a treasure known to our people which we seek to retrieve from the Nomodorn Corridor. Perform well, and we shall bestow you with great riches."
     kay "What are you looking for?"
     ryu "The crown jewel of Ryuvia."
-    kay "The crown jewel? I presume it's of value?"
+    kay "The crown jewel?"
     ryu "The kingdom of Ryuvia holds many secrets, captain. You have our request. I shall be waiting."
 
     hide king with wipedown
