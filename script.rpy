@@ -16,7 +16,6 @@ label splashscreen:
     show logo 2 with dissolve
     $ renpy.pause(2)
     hide logo with dissolve
-    $ renpy.pause(0.5)
 
     stop music fadeout 1.0
     return
@@ -13336,7 +13335,7 @@ label beachasaga:
     
     asa "Oh! How's it goin', capt'n!"
     kay "It's nice to be out here for a change."
-    asa "I never knew stuff like this even existed! Man, I've definitely shoulda left Ryuvia earlier if I knew all the stuff the rest of the galaxy had!"
+    asa "I never knew stuff like this even existed! Man, I definitely shoulda left Ryuvia earlier if I knew all the stuff the rest of the galaxy had!"
     asa "Always being cooped up in the Star Palace was so boring! Nothing but dry lessons and old geezers!"
     kay "How'd you learn to pilot like that anyways?"
     
